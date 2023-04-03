@@ -1,5 +1,7 @@
 # QA_Contours
 
+### Author: [Zachary Wooten](https://github.com/wootz101)
+
 This repository contains code and data to reproduce most figures in the paper: ***Predictive modeling using shape statistics for interpretable and robust quality assurance of automated contours in radiation treatment planning***
 
  Written by Zachary Wooten, Cenji Yu, Laurence Court, and Christine Peterson in 2022.
